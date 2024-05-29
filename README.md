@@ -1,4 +1,4 @@
-[![MasterHead]([https://images.app.goo.gl/WEDmjnemnk3aNUhp6](https://w0.peakpx.com/wallpaper/1021/487/HD-wallpaper-technology-code-programming-programmer.jpg))
+[![MasterHead]([[https://images.app.goo.gl/WEDmjnemnk3aNUhp6](https://w0.peakpx.com/wallpaper/1021/487/HD-wallpaper-technology-code-programming-programmer.jpg)](https://w0.peakpx.com/wallpaper/1021/487/HD-wallpaper-technology-code-programming-programmer.jpg))
 <h1 align="center">Hi 👋, I'm Ali Eren KÖSE</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
