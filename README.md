@@ -1,4 +1,4 @@
-Fotoğraf ekleme : [![MasterHead](https://www.google.com/imgres?q=developer%20wallpaper%204k&imgurl=https%3A%2F%2Fw0.peakpx.com%2Fwallpaper%2F1021%2F487%2FHD-wallpaper-technology-code-programming-programmer.jpg&imgrefurl=https%3A%2F%2Fwww.peakpx.com%2Fen%2Fsearch%3Fq%3Dprogrammer&docid=DfttAxe8QPw2uM&tbnid=EuARYQmp2jvREM&vet=12ahUKEwjQwcHU7rKGAxVWA9sEHTVID_4QM3oECGQQAA..i&w=800&h=450&hcb=2&ved=2ahUKEwjQwcHU7rKGAxVWA9sEHTVID_4QM3oECGQQAA)
+[![MasterHead](https://images.app.goo.gl/WEDmjnemnk3aNUhp6)
 <h1 align="center">Hi 👋, I'm Ali Eren KÖSE</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
